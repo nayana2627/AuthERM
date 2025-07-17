@@ -25,3 +25,8 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+## What AI Tool is used for this project?
+
+- ChatGPT
+- Cascade in Windsurf IDE
